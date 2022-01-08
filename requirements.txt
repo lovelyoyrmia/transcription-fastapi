@@ -1,0 +1,5 @@
+pydub
+fastapi
+SpeechRecognition
+uvicorn
+librosa
