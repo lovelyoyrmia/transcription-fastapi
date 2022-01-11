@@ -3,3 +3,4 @@ fastapi
 SpeechRecognition
 uvicorn
 librosa
+gunicorn
